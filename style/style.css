@@ -1,0 +1,13 @@
+img {
+    width: 100%;
+}
+
+.col {
+    width: 32%;
+    margin-left: 1%;
+}
+
+.footer {
+    height: 45px;
+    bottom: 0;
+}
